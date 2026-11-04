@@ -1,0 +1,27 @@
+def calculate_total_hours(day1, day2, day3):
+  return (day1 + day2 + day3)
+def get_participation_level(total_hours):
+  if total_hours > 8:
+    return "Highly Active"
+  elif total_hours < 5:
+    return "Needs Improvement"
+  else:
+    return "Active"
+def is_certificate_eligible(total_hours, quiz_score):
+  if total_hours >= 8 and quiz_score >= 80:
+    return "True"
+  else:
+    return "False"
+
+day1 = float(input("Enter number of hours for day1: "))
+day2 = float(input("Enter number of hours for day2: "))
+day3 = float(input("Enter number of hours for day3: "))
+quiz_score = int(input("Enter your quiz score: "))
+
+total_hours = calculate_total_hours(day1, day2, day3)
+participation_level = get_participation_level(total_hours)
+certificate_eligible = is_certificate_eligible(total_hours, quiz_score)
+
+print(f"Total Participation Hours: {total_hours:.2f}")
+print(f"Participation Level: {participation_level}")
+print(f"Certificate Eligibility: {certificate_eligible}")
