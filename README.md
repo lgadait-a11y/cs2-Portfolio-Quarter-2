@@ -25,13 +25,17 @@ Problem 1: The Canteen Purchase Calculator
 
 https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/blob/main/Problem%201%3A%20The%20Canteen%20Purchase%20Calculator.py
 
+Explanation Down Below
+
 https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/commit/d99ef59ea504e2f23ba86e2c602d86805a0fe0e1
 
 Problem 2: Student Performance Evaluator 
 
 https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/blob/main/Problem%202%3A%20Student%20Performance%20Evaluator.py
 
+Explanation Down Below
 
+https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/commit/9030995b373a1c481e4ff282691f9bccf8f0d6e7
 
 Programming Exercises 1-4
 
