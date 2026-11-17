@@ -1,0 +1,51 @@
+Exercise 1
+
+# Loop starts at 2, stops before 21, adding by 2
+for number in range(2, 21, 2):
+    print(number)
+
+Exercise 2
+
+count = 10
+
+# Keep looping as long as count is greater than 0
+while count > 0:
+    print(count)
+    count -= 1  # minus 1 each time
+
+print("Time is up.")
+
+Exercise 3
+
+# Loop through numbers 1 to 15
+for i in range(1, 16):
+    # Check if i is divisible by 3 with no remainder
+    if i % 3 == 0:
+        continue  
+    print(i)
+# Additional Info I did this exercise with Ai because I was not getting hw to use the % modulo
+
+Exercise 4
+
+# Define the function
+def show_table(number):
+    for i in range(1, 11):
+        print(f"{number} x {i} = {number * i}")
+
+# Ask for an Integer number
+user_num = int(input("Enter a number that is a Integer: "))
+
+show_table(user_num)
+
+
+
+
+
+
+
+
+
+
+
+
+
