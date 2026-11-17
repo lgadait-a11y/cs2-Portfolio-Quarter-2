@@ -29,7 +29,9 @@ Problem 2: Student Performance Evaluator
 
 https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/blob/main/Problem%202%3A%20Student%20Performance%20Evaluator.py
 
-Programming Exercises
+Programming Exercises 1-4
+
+https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/blob/main/Programming%20Exercises
 
 
 
