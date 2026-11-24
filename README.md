@@ -41,7 +41,7 @@ Programming Exercises 1-4
 
 https://github.com/lgadait-a11y/cs2-Portfolio-Quarter-2/blob/main/Programming%20Exercises
 
-
+Programming Exercises 2, 1-2
 
 
 
