@@ -1,0 +1,42 @@
+Problem 1 
+
+print("Classroom Attendance Counter")
+
+attendance = ["Present", "Absent", "Present","Present", "Absent", "Present"
+]
+
+# 2. Use a for loop to display each attendance record, numbered from Student 1 onward
+for i in range(len(attendance)):
+    print(f"Student {i + 1}: {attendance[i]}")
+
+present_count = attendance.count("Present")
+
+absent_count = attendance.count("Absent")
+
+total_students = len(attendance)
+
+print("\nAttendance Summary")
+print(f"Total Students: {total_students}")
+print(f"Present: {present_count}")
+print(f"Absent: {absent_count}")
+
+Problem 2
+
+print("Classroom Attendance Counter")
+
+attendance = [ "Present", "Absent", "Present","Present", "Absent", "Present"
+]
+
+for i in range(len(attendance)):
+    print(f"Student {i + 1}: {attendance[i]}")
+
+present_count = attendance.count("Present")
+
+absent_count = attendance.count("Absent")
+
+total_students = len(attendance)
+
+print("\nAttendance Summary")
+print(f"Total Students: {total_students}")
+print(f"Present: {present_count}")
+print(f"Absent: {absent_count}")
